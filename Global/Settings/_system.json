@@ -1,0 +1,85 @@
+{
+    "SERVER": {
+        "ID": "975398606712504350",
+        "Name": "ZELSA"
+    },
+
+    "TOKENS": {
+        "Requirements": "OTc1NDM3NDYzMzAyNTgyMjcy.GX0an0.xh9K802rK0nBMmzaiDvKzZbLJ1lIqCdNBiVs5Q", 
+        "Statistics": "OTc1NDkzNTA5MTAyNTg3OTQ1.GhNB28.KknaWV5YTGFhrCJxxwZoIHmKRz_fZDcVf4xkQE",
+        "Voucher": "OTc1NDk3MTIzNTk0Mzk5Nzg0.GLiakS.MlyjOGP-c1Kk9yyAuSly7im2L05mJo7PgULn4g",
+
+        "SECURITY": {
+            "MAIN": "OTc4NDI5NjAyNDcwOTc3NTM2.GV0akM.x2QeqGpFVtcRT5Hb4HX2cEjC5ck4v-35IvpypA",
+            "SEC_ONE": "OTc4NDQwNzA5MjY4OTgzODI4.GYxDTr.5aZL-qBHKHmj0I4nniGxyekAt6TRWuLZOWHQhA",
+            "SEC_TWO": "OTc4NDMwMzc1MTM3MjgwMDIw.GGZ2Nc.HjDo6xceA3WifAqntM4vAJiBQJLCCBcupVcxFI",
+            "SEC_THREE": "OTc4NDMwOTE0NjEyODQyNTI4.GPbnU3.nka0hPx0nu0dv8tktiHNoqjZ1sK1rM5KRBTDSo",
+            "SEC_FOUR": "OTc5ODExMjI3ODgwNTU0NTM2.GFiY39.sFrwefnMJ3qMWxGaDhye6o9abpZG--vRWFICSc",
+            "DISTS": [
+                "OTgwNDQ4MDA1Nzk2Nzk0NDQ4.GOqmdY.vi3HBJHo4eFDv5_RBTHGCY2ra4I5UEd7yUq1-M",
+                "OTgwNDUwMTEzMDgyMjQxMDI0.GZCddV._2_lpPY10MHDbxA3M1D-nEkd1d87CMIAFOmkF0",
+                "OTgwNDUxNzkzMTIzMzA3NTIw.GxWwJA.WD_9aHl_NUAyza-Fjpkvx5oY2SHdYKJadA-eB4",
+                "OTgwNDYzMzg4NjQ5OTkyMjEy.G4ap_M.QU-CW02VNCHxfjwQQRDDuW4Jbz8ZQQ2exoZTDU"
+            ],
+            "GUILD_OWNER_TOKEN": "OTc0MDk1Mjk0ODk3NzE3MjU4.G6-l1s._WXVdjQmwDBs46bs9wfiW07LhdA38IBVMlY6zo"
+        },
+
+        "WELCOME": {
+            "Active": true,
+            "WELCOMES": [
+                "OTgwNDQ4MDA1Nzk2Nzk0NDQ4.GOqmdY.vi3HBJHo4eFDv5_RBTHGCY2ra4I5UEd7yUq1-M",
+                "OTgwNDUwMTEzMDgyMjQxMDI0.GZCddV._2_lpPY10MHDbxA3M1D-nEkd1d87CMIAFOmkF0",
+                "OTgwNDUxNzkzMTIzMzA3NTIw.GxWwJA.WD_9aHl_NUAyza-Fjpkvx5oY2SHdYKJadA-eB4",
+                "OTgwNDYzMzg4NjQ5OTkyMjEy.G4ap_M.QU-CW02VNCHxfjwQQRDDuW4Jbz8ZQQ2exoZTDU",
+                ""
+        ],
+            "WELCOME_CHANNELS": [
+                "975398607417135110",
+        "975398607417135111",
+        "975398607417135112",
+        "992206576448458802",
+        "992207169044889690"
+            ]
+        }
+    },
+    "botSettings": {
+        "Prefixs": [".","/"]
+    },
+
+
+
+    "WELCOMES": [
+        "OTgwNDQ4MDA1Nzk2Nzk0NDQ4.GOqmdY.vi3HBJHo4eFDv5_RBTHGCY2ra4I5UEd7yUq1-M",
+                "OTgwNDUwMTEzMDgyMjQxMDI0.GZCddV._2_lpPY10MHDbxA3M1D-nEkd1d87CMIAFOmkF0",
+                "OTgwNDUxNzkzMTIzMzA3NTIw.GxWwJA.WD_9aHl_NUAyza-Fjpkvx5oY2SHdYKJadA-eB4",
+                "OTgwNDYzMzg4NjQ5OTkyMjEy.G4ap_M.QU-CW02VNCHxfjwQQRDDuW4Jbz8ZQQ2exoZTDU",
+                ""
+    ],
+
+    "WELCOME_CHANNELS": [
+        "975398607417135110",
+        "975398607417135111",
+        "975398607417135112",
+        "992206576448458802",
+        "992207169044889690"
+    ],
+
+    "embed": {
+        "iconURL": "",
+        "başlık": "",
+        "altbaşlık": "ZELSA ✶ Créatéd by Lyrra",
+        "renk": "RANDOM"
+      },
+
+    "botStatus": {
+        "Status": "dnd",
+        "Name": "Lyrra is best?",
+        "voiceChannelID": "975398607601680441"
+    },
+    "Database" : {
+        "Active": true,
+        "MongoURL": "mongodb+srv://lyrraxdd:Asdasd123@cluster0.cpgn0.mongodb.net/myFirstddsxqweqadsadqweDatabase?retryWrites=true&w=majority"
+    }
+
+}
+
